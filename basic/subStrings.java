@@ -24,5 +24,6 @@ public class subStrings {
             System.out.println("Invalid format of the email!");
         }
 
+        sc.close();
     }
 }

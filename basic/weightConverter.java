@@ -28,5 +28,7 @@ public class weightConverter {
         } else{
             System.out.println("Invalid choice, please try again!");
         }
+
+        sc.close();
     }
 }

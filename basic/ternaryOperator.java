@@ -16,6 +16,6 @@ public class ternaryOperator {
 
         System.out.println(isAllowed);
 
-        
+        sc.close();
     }
 }

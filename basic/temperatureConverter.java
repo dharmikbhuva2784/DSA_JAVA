@@ -26,5 +26,7 @@ public class temperatureConverter {
         }else{
             System.out.println("Invalid choice!");
         }
+
+        sc.close();
     }
 }

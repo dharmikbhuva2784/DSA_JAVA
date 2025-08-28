@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class stringMethods {
     public static void main(String[] args) {
         String name = "Bro Code";
@@ -49,7 +47,5 @@ public class stringMethods {
         }else{
             System.out.println("string does not matches with target string");
         }
-
-        
     }
 }

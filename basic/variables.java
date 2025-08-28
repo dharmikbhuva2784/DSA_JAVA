@@ -17,6 +17,7 @@ public class variables {
         double gpa = 3.5;
         double temperature = -12.5;
 
+        System.out.println(temperature);
         System.out.println("$"+price);
 
         //character
@@ -26,6 +27,7 @@ public class variables {
         char currency = '$';
 
         System.out.println(grade);
+        System.out.println(symbol);
 
         //boolean
 
